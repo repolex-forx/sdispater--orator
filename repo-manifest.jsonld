@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sdispater/orator/commit/db8744967e1c91a80079ecef70c7db805871dd3d",
       "git:hexsha": "db8744967e1c91a80079ecef70c7db805871dd3d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T13:07:37.717474+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sdispater/orator/commit/af350f43e6dde56df71db41fd39525c705c91582",
